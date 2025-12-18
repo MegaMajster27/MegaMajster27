@@ -1,5 +1,5 @@
 C,
-JavaScript (front- and backend),
+Rust
 HTML,
 CSS,
 Java,
